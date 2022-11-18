@@ -1,9 +1,6 @@
 # X-UI ENGLISH VERSION
 
 Another Translated-to-English Version of X-UI. 
- 
-A furthur development from [my previous repo](https://github.com/NidukaAkalanka/x-ui-english.old) and
-kind a fork from [taffychan's x-ui](https://github.com/taffychan/x-ui) + [Yu FranzKafka's x-ui](https://github.com/vaxilu/x-ui), forked from [vaxilu's awesome project](https://github.com/vaxilu/x-ui/) which is a Multi-protocol Multi-user Xray Panel
 
 # Features
 
@@ -30,13 +27,13 @@ kind a fork from [taffychan's x-ui](https://github.com/taffychan/x-ui) + [Yu Fra
 # Single Command Install & upgrade
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/XemonDev/x-ui/master/install.sh)
 ````
 
 ## Manual install & upgrade
 
 1. First update your system
-1. Then download the latest compressed package from https://github.com/NidukaAkalanka/x-ui-english/releases/latest, generally choose `amd64` architecture
+1. Then download the latest compressed package from https://github.com/XemonDev/x-ui/releases/latest, generally choose `amd64` architecture
 2. Upload the compressed package to the `/root/` directory of the server, and use the `root` user to log in to the server and run following commands
 
 > If your server cpu architecture is not `amd64`, replace `amd64` in the command with another architecture
